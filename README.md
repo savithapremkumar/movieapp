@@ -1,6 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Instructions : Clone this project and inside the project directory : run "npm start"
-App tested on : Windows/Chrome/IE edge browsers
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br>
+Instructions : Clone this project and inside the project directory : run "npm start"<br>
+App tested on : Windows/Chrome/IE edge browsers<br>
 ## Available Scripts
 
 In the project directory, you can run:
